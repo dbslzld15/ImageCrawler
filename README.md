@@ -1,8 +1,10 @@
 # ImageCrawler
 
+이미지 크롤러
+
 # 자신의 크롬 버전에 맞는 chormedriver 설치 
 
-이미지 크롤러
+
 
 구글 이미지 크롤러의 경우 .image 폴더에 저장
 
