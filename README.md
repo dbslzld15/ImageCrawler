@@ -1,6 +1,6 @@
 # ImageCrawler
 
-# 자신에 버전에 맞는 chormedriver 설치하길 권장
+# 자신의 크롬 버전에 맞는 chormedriver 설치 후 실행
 
 이미지 크롤러
 
